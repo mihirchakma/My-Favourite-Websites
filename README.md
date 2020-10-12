@@ -18,6 +18,7 @@
 </ul>
 
 #### Most Favourite
+
 <ul>
         <li><a href="https://roadmap.sh/">Roadmap</a></li>
         <li><a href="https://developer.mozilla.org/en-US/">Mozilla Developer</a></li>
@@ -28,3 +29,11 @@
         <li><a href="https://scotch.io/">Scotch</a></li>
         <li><a href="https://sabe.io/">Sabe</a></li>
 </ul>
+
+#### Video Websites
+<ul>
+        <li><a href="https://www.udemy.com/">Udemy</a></li>
+        <li><a href="https://www.eduonix.com/">Eduonix</a></li>
+</ul>
+
+#### Blogs
