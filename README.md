@@ -37,3 +37,22 @@
 </ul>
 
 #### Blogs
+<ul>
+        <li><a href="https://dev.to/">Dev</a></li>
+        <li><a href="https://css-tricks.com/">CSS Tricks</a></li>
+        <li><a href="https://realpython.com/">Real Python</a></li>
+        <li><a href="https://www.samanthaming.com/">Samanthaming</a></li>
+        <li><a href="https://learntocodewith.me/">Learn To Code With Me</a></li>
+        <li><a href="https://www.geeksforgeeks.org/">Geeks For Geeks</a></li>
+        <li><a href="https://tutorialzine.com/">Tutorialzine</a></li>
+        <li><a href="https://www.sitepoint.com/">Sitepoint</a></li>
+        <li><a href="https://skillcrush.com/">Skillcrush</a></li>
+        <li><a href="https://www.smashingmagazine.com/">Smashingmagazine</a></li>
+        <li><a href="https://hackernoon.com/">Hacker Noon</a></li>
+        <li><a href="https://www.blog.duomly.com/">Doumly Blogs</a></li>
+        <li><a href="https://www.lifewire.com/">Lifewire</a></li>
+        <li><a href="https://thomlom.dev/">Thomlom</a></li>
+        <li><a href="https://www.devaradise.com/">Devaradise</a></li>
+</ul>
+
+
