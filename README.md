@@ -1,6 +1,5 @@
 # My Favourite Websites
 
-### Front End Engineer
 
 <ul>
         <li><a href="https://www.freecodecamp.org">FreeCodeCamp</a></li>
