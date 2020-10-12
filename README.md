@@ -28,6 +28,7 @@
         <li><a href="https://www.educative.io/">Educative</a></li>
         <li><a href="https://scotch.io/">Scotch</a></li>
         <li><a href="https://sabe.io/">Sabe</a></li>
+        <li><a href="https://www.log2base2.com/">Log2Base2</a></li>
 </ul>
 
 #### Video Websites
