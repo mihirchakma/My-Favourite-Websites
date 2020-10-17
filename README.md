@@ -56,4 +56,11 @@
         <li><a href="https://www.devaradise.com/">Devaradise</a></li>
 </ul>
 
+#### Frameworks  
+
+- https://angular.io/
+- https://reactjs.org/  
+- https://vuejs.org/
+- https://www.djangoproject.com/  
+
 
